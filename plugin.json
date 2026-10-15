@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "mcp-quality",
+  "version": "1.0.0",
+  "description": "Quality bar for MCP servers (discovery attestation, shared domain API), knowledge-graph patterns, and a builder that scaffolds core+MCP+API for a use case",
+  "keywords": ["mcp", "agents", "skills", "knowledge-graph", "builder", "api"]
+}
